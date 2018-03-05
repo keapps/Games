@@ -1,3 +1,3 @@
 MAME4droid (0.37b5)
 MAME4droid (0.139u1)
-GhostStore
+GhostApps
