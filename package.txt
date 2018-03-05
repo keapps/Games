@@ -1,2 +1,3 @@
 com.seleuco.mame4all
 com.seleuco.mame4droid
+org.ghost.store
